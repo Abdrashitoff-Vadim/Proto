@@ -1,4 +1,4 @@
-module "10.147.17.133/sosal4iki/porno/gen/core"
+module github.com/Abdrashitoff-Vadim/proto
 
 go 1.25.0
 
